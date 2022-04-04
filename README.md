@@ -1,4 +1,4 @@
-<h1>Hi, I'm CreeperFarm, a young developer.</h1>
+<h1>Hi 👋,<br>I'm CreeperFarm, a young developer.</h1>
 
 <h3>I'm a 16 Years old, student and I'm French 🇫🇷 !</h3>
 
