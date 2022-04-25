@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CreeperFarm&color=green&style=flat-square" alt="CreeperFarm" /> </p>  
 
 <br> <br>
-[![CreeperFarm' GitHub stats](https://github-readme-stats.vercel.app/api?username=CreeperFarm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![CreeperFarm' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreeperFarm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![CreeperFarm' GitHub stats](https://github-readme-stats.vercel.app/api?username=CreeperFarm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <p align="left">
   <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="html5" width="40" height="40"/><img src="https://www.pngkey.com/png/full/674-6742434_html5-css3.png" alt="css3" width="35" height="40"/> 
