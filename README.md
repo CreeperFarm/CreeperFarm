@@ -14,6 +14,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="java" width="40" height="40"/>
   <img src="https://v12.discordjs.guide/assets/img/discord-avatar-djs.cfe39c8b.png" alt="discordjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/8radm1n/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/python.svg" alt="python" width="40" height="40"/> 
-  <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>  
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>  
   <img src="https://or-formation.com/uploads/img/produits/52.png" alt="c++" width="40" height="40"/>-->
 </p>
