@@ -11,6 +11,6 @@
 <h4>Actually, I now those language :</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,js,discord,bots,arduino,idea,py,vscode,java,figma,md" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,discord,bots,arduino,idea,py,vscode,java,figma,md" />
   </a>
 </p>
