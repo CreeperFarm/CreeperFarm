@@ -7,7 +7,6 @@
 <br> <br>
 [![CreeperFarm' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreeperFarm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![CreeperFarm' GitHub stats](https://github-readme-stats.vercel.app/api?username=CreeperFarm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
 <h3>Actually, I now those language :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
