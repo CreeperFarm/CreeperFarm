@@ -1,4 +1,5 @@
 <h1>Hi 👋,<br>I'm CreeperFarm, a young developer.</h1>
+<p>My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Game</p>
 
 <h3>I'm a 17 Years old, a student and I'm French 🇫🇷 !</h3>
 
