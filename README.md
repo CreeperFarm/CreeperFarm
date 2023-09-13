@@ -12,6 +12,14 @@
 <h3>Actually, I now those language :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,discord,bots,arduino,idea,py,vscode,java,figma,md,androidstudio,flutter,dart,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bots,arduino,py,java,md,flutter,dart" />
+    <!--<img src="https://skillicons.dev/icons?i=html,css,js,discord,bots,arduino,idea,py,vscode,java,figma,md,androidstudio,flutter,dart,firebase" />-->
+  </a>
+</p>
+
+<h3>And I use :</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,arduino,idea,vscode,figma,md,androidstudio,firebase" />
   </a>
 </p>
