@@ -3,7 +3,13 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
 
 ### I'm a 17 Years old, a student and I'm French 🇫🇷 !
 
-[![creeperfarm](https://komarev.com/ghpvc/?username=creeperfarm&color=blue)](https://github.com/creeperfarm) [![wakatime](https://wakatime.com/badge/user/c21fbe25-694d-4415-9541-9ff274316f89.svg)](https://wakatime.com/@c21fbe25-694d-4415-9541-9ff274316f89)
+[![creeperfarm](https://komarev.com/ghpvc/?username=creeperfarm&color=blue)](https://github.com/creeperfarm)
+[![wakatime](https://wakatime.com/badge/user/c21fbe25-694d-4415-9541-9ff274316f89.svg)](https://wakatime.com/@c21fbe25-694d-4415-9541-9ff274316f89)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/farmcreeper)](https://twitter.com/intent/follow?screen_name=farmcreeper)
+![GitHub followers](https://img.shields.io/github/followers/creeperfarm)
+![GitHub User's stars](https://img.shields.io/github/stars/creeperfarm)
+
+
 
 
 [![CreeperFarm' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreeperFarm&theme=tokyonight)](https://github.com/creeperfarm)
