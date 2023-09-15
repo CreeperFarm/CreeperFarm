@@ -1,11 +1,11 @@
-<h1>Hi 👋,<br>I'm CreeperFarm, a young developer.</h1>
-<p>My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Game</p>
+# Hi 👋,<br>I'm CreeperFarm, a young developer.
+My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Game
 
-<h3>I'm a 17 Years old, a student and I'm French 🇫🇷 !</h3>
+### I'm a 17 Years old, a student and I'm French 🇫🇷 !
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CreeperFarm&color=green&style=flat-square" alt="CreeperFarm" /> </p>  
+[![creeperfarm](https://komarev.com/ghpvc/?username=creeperfarm&color=blue)](https://github.com/creeperfarm) [![wakatime](https://wakatime.com/badge/user/c21fbe25-694d-4415-9541-9ff274316f89.svg)](https://wakatime.com/@c21fbe25-694d-4415-9541-9ff274316f89)
 
-<br> <br>
+
 [![CreeperFarm' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreeperFarm&theme=tokyonight)](https://github.com/creeperfarm)
 [![CreeperFarm' GitHub stats](https://github-readme-stats.vercel.app/api?username=CreeperFarm&show_icons=true&theme=tokyonight)](https://github.com/creeperfarm)
 [![CreeperFarm' GitHub profile detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creeperfarm&theme=tokyonight)](https://github.com/creeperfarm)
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3>And I use :</h3>
+### And I use :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,arduino,idea,vscode,eclipse,figma,md,androidstudio,firebase,github,git" />
