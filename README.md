@@ -15,6 +15,8 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
 [![CreeperFarm' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreeperFarm&theme=tokyonight)](https://github.com/creeperfarm)
 [![CreeperFarm' GitHub stats](https://github-readme-stats.vercel.app/api?username=CreeperFarm&show_icons=true&theme=tokyonight)](https://github.com/creeperfarm)
 [![CreeperFarm' GitHub profile detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creeperfarm&theme=tokyonight)](https://github.com/creeperfarm)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CreeperFarm&theme=dark)](https://git.io/streak-stats)
+
 <h3>Actually, I now those language :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
