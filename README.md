@@ -20,8 +20,7 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
 <h3>Actually, I now those language :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bots,arduino,py,selenium,java,md,flutter,dart" />
-    <!--<img src="https://skillicons.dev/icons?i=html,css,js,discord,bots,arduino,idea,py,vscode,java,figma,md,androidstudio,flutter,dart,firebase" />-->
+    <img src="https://skillicons.dev/icons?i=html,css,js,bots,py,selenium,md,flutter,dart" />
   </a>
 </p>
 
