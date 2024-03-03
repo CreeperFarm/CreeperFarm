@@ -30,3 +30,5 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
     <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,arduino,idea,vscode,figma,md,androidstudio,firebase,github,git,linkedin" />
   </a>
 </p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/455390851598778368?idleMessage=Im%20probably%20at%20school)](https://discord.com/users/455390851598778368)
