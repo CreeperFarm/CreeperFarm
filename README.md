@@ -27,7 +27,7 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
 ### And I use :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,linkedin,arduino,idea,vscode,figma,md,androidstudio,firebase,github,git,docker,notion,postman,windows" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,linkedin,arduino,idea,vscode,figma,md,androidstudio,firebase,github,git,docker,notion,postman,windows,apple" />
   </a>
 </p>
 
