@@ -31,4 +31,4 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
   </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/455390851598778368?idleMessage=I%20am%20probably%20at%20school...&borderRadius=30px&showDisplayName=true)](https://discord.com/users/455390851598778368)
+[![Discord Presence](https://lanyard.cnrad.dev/api/455390851598778368?theme=dark&idleMessage=I'm%20probably%20at%20school...%20Or%20sleeping%20%3A3&showDisplayName=true&bg=1a1b27&borderRadius=30px)](https://discord.com/users/455390851598778368)
