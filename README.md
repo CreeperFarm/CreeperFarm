@@ -1,7 +1,7 @@
 # Hi 👋,<br>I'm CreeperFarm, a young developer.
 My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Game
 
-### I'm a 19 Years old student and I'm French 🇫🇷 !
+### I'm a 20 Years old student and I'm French 🇫🇷 !
 
 [![creeperfarm](https://komarev.com/ghpvc/?username=creeperfarm&color=blue)](https://github.com/creeperfarm)
 [![wakatime](https://wakatime.com/badge/user/c21fbe25-694d-4415-9541-9ff274316f89.svg)](https://wakatime.com/@CreeperFarm)
