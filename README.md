@@ -25,12 +25,6 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
   </a>
 </p>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/455390851598778368?theme=dark&idleMessage=I'm%20probably%20at%20school...%20Or%20sleeping%20%3A3&showDisplayName=true&bg=1a1b27&borderRadius=30px)](https://discord.com/users/455390851598778368)
-
-
 [![CreeperFarm' GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CreeperFarm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=fr)](https://github.com/creeperfarm)
-[![GitHub Streak](https://streak-stats.demolab.com?user=CreeperFarm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![CreeperFarm' GitHub profile detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creeperfarm&theme=tokyonight)](https://github.com/creeperfarm)
 
 [![wakatime language](https://wakatime.com/share/@CreeperFarm/cfbf8961-177e-40e6-b20d-398743bb04f4.svg)](https://wakatime.com/@CreeperFarm)
