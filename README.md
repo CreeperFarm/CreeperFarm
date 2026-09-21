@@ -14,14 +14,14 @@ My discord pseudo is theotakutechgame , you can also call me DevOtaku: Tech & Ga
 <h3>I currently now these languages :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,md,flutter,dart,tailwind,ts,c,ocaml" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,md,flutter,dart,tailwind,ts,c,ocaml" />
   </a>
 </p>
 
 ### And I use :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,linkedin,idea,vscode,figma,md,androidstudio,github,git,docker,notion,postman,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,linkedin,idea,vscode,figma,md,androidstudio,github,git,docker,notion,postman,windows,apple,obsidian" />
   </a>
 </p>
 
